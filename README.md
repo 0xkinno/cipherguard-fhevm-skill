@@ -4,6 +4,7 @@
 > not just write FHE syntax, but reason about privacy, access
 > control, and onchain confidentiality like a Zama engineer.
 
+Video Demo Link: https://www.youtube.com/watch?v=JJ9SOgeVnAw&t=29s
 ---
 
 ## What Is CipherGuard?
